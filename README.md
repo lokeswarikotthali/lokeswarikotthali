@@ -1,5 +1,9 @@
+I want you to edit my GitHub profile README.md file. 
+
+Delete everything in the file and replace it with this exact content:
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <h1>Hi there, I'm Kotthali Lokeshwari</h1>
 </div>
 
@@ -51,3 +55,5 @@ Hey! I'm Kotthali Lokeshwari, a passionate B.Tech AI&ML Student and Aspiring Sof
 
 ---
 ⭐️ From [lokeswarikotthali](https://github.com/lokeswarikotthali)
+
+After replacing, commit the changes with message "Update profile README".
