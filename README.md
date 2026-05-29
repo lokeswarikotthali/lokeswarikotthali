@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px">
   <h1>Hi there, I'm Kotthali Lokeshwari</h1>
 </div>
 
@@ -31,7 +31,7 @@ Hey! I'm Kotthali Lokeshwari, a passionate B.Tech AI&ML Student and Aspiring Sof
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeswarikotthali&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeswarikotthali&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lokeswarikotthali&theme=radical" alt="GitHub Streak" />
 </div>
 
 ### 🤝 Connect with Me
