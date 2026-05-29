@@ -32,7 +32,7 @@ Hey! I'm Kotthali Lokeshwari, a passionate B.Tech AI&ML Student and Aspiring Sof
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeswarikotthali&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeswarikotthali&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeswarikotthali&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/>
