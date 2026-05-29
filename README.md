@@ -14,7 +14,7 @@ Hey! I'm Kotthali Lokeshwari, a passionate B.Tech AI&ML Student and Aspiring Sof
 - 💻 Love building projects with SQL
 - 🌱 Learning DBMS and HTML,CSS,SQL,PYTHON
 - 🎯 Goal: Crack a SDE role at a top tech company
-- ⚡ Fun fact: I turn coffee into code
+- ⚡ Fun fact: I Love learning new tech
 
 ### 🛠️ Tech Stack
 <p align="left">
