@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px">
   <h1>Hi there, I'm Kotthali Lokeshwari</h1>
 </div>
 
